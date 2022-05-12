@@ -1,5 +1,5 @@
 import MovieScore from "components/MovieCard";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 function MovieCard() {
@@ -10,9 +10,9 @@ function MovieCard() {
         title: "The Witcher",
         count: 2,
         score: 4.5
-    }; 
+    };
 
-    return(
+    return (
         <div>
             <img className="dsmovie-movie-card-image" src={movie.image} alt={movie.title} />
             <div className="dsmovie-card-bottom-container">
@@ -22,10 +22,10 @@ function MovieCard() {
                 <Link to={`/form/${movie.id}`}>
                     <div className="btn btn-primary dsmovie-btn">Avaliar</div>
                 </Link>
-             </div>
+            </div>
         </div>
     );
-    
+
 }
 
 export default MovieCard;
