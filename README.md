@@ -1,10 +1,10 @@
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-### <h1>`<> Olá,Bem vindo ao meu projeto da Semana Spring React do DevSuperior </>` </h1>
+### <h1 align="center">`<> Olá,Bem vindo ao meu projeto da Semana Spring React do DevSuperior </>` </h1>
   #
   
   <h3>App focado em avaliações de filmes, a medida que os filmes vão sendo avaliados as estelas começão a ser preenchidas, em uma das suas três  fases, totalmente preenchida, preenchida pela metade, ou vazia.</h3>
   
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ 
  #### Para desenvolvimento foi utilizado:
     
 #### Tecnologias que utilizo no Back-end:
