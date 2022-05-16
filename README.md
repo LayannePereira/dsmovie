@@ -25,4 +25,6 @@
 #### Tecnologias que utilizo para versionamento:
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&)
-##
+
+  
+  ##Link da aplicação no Netlity: https://layanne-dsmovie.netlify.app/
